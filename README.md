@@ -1,9 +1,5 @@
 ### Hello Coders 👋!!
-    
-        I'm **_Kirthana_** **_Balasubramanian_**
-
-
-Here are some ideas to get you started:
+ I'm **_Kirthana_** **_Balasubramanian_**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
