@@ -1,5 +1,5 @@
 ### Hello Coders 👋!!
- I'm **_Kirthana_** **_Balasubramanian_**  ![hi](https://user-images.githubusercontent.com/68461326/126602614-31aa049f-9004-484a-9569-27fb53076c73.gif)
+ I'm **_Kirthana_** **_Balasubramanian_**  ![hi](https://user-images.githubusercontent.com/68461326/126602614-31aa049f-9004-484a-9569-27fb53076c73.gif width=50px height=50px)
 
 
 - 🔭 I’m currently working on ...
