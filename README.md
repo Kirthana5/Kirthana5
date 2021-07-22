@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img  align="center" width="100%" height="500" src="https://github.com/Kirthana5/Kirthana5/blob/main/Programmer.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kirthana Balasubramanian</h1>
 <h3 align="center">A Passionate Budding Programmer from India, pursuing my Bachelor's in Computer Science Engineering</h3>
