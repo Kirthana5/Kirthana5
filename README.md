@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at **[My GitHub]https://github.com/Kirthana5**
 
-- 📫 How to reach me **kirthanabalasubramanian2002@gmail.com**
+- 📫 Reach me at **kirthanabalasubramanian2002@gmail.com**
 
-- ⚡ Fun fact **Food + Music = My Happiness**
+- ⚡ Fun fact **Food + Music = My Happiness😌**
 
 ## 🚀 Languages and Tools:
 
