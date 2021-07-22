@@ -1,6 +1,6 @@
 ### Hello Coders 👋!!
     
-        I'm **Kirthana Balasubramanian**
+        I'm **Kirthana** __Balasubramanian__
 
 
 Here are some ideas to get you started:
