@@ -1,7 +1,7 @@
 
 <a href="#"><img  align="center" width="100%" height="auto" src="https://github.com/Kirthana5/Kirthana5/blob/main/Programmer.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kirthana Balasubramanian</h1>
+<h1 align="center">Hello Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,<br/> I'm Kirthana Balasubramanian</h1>
 <h3 align="center">A Passionate Budding Programmer from India, pursuing my Bachelor's in Computer Science Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirthana5&label=Profile%20views&color=0e75b6&style=flat" alt="kirthana5" /> </p>
