@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js & SQL**
+- 🌱 I’m currently learning **React.js, Node.js & SQL**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
