@@ -1,5 +1,4 @@
 
-<a href="#"><img  align="center" width="100%" height="auto" src="https://github.com/Kirthana5/Kirthana5/blob/main/Programmer.png" height="175px"/></a>
 
 <h1 align="center">Hello Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,<br/> I'm Kirthana Balasubramanian</h1>
 <h3 align="center">A Passionate Budding Programmer from India, pursuing my Bachelor's in Computer Science Engineering</h3>
@@ -48,6 +47,5 @@
 <a href="https://www.linkedin.com/in/kirthana-balasubramanian-a81509215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirthana-balasubramanian-a81509215/" height="30" width="40" /></a>
 <a href="mailto:kirthanabalasubramanian2002@gmail.com"><img align="center" src="https://img.icons8.com/fluent/50/000000/gmail-new.png" height="30" width="40"/></a>
 <a href="https://www.hackerrank.com/kirthubala55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kirthubala55" height="30" width="40" /></a>
-<a href="https://codepen.io/kirthubala" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codepen.png" height="30" width="40"/></a>
 
 </p>
