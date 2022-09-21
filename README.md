@@ -7,10 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Web Development & SQL**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 👨‍💻 All of my projects are available at **[My GitHub]https://github.com/Kirthana5**
 
 - 📫 Reach me at **kirthanabalasubramanian2002@gmail.com**
