@@ -24,14 +24,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Kirthana5/github-readme-stats"><img alt="Kirthana Balasubramanian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirthana5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Kirthana5/github-readme-stats"><img alt="Kirthana Balasubramanian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthana5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-<br/>
 
 
 
